@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e . ##used for mapping to setup.py
