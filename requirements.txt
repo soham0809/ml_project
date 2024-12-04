@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
--e . ##used for mapping to setup.py
+#-e . 
+scikit-learn 
+catboost
+xgboost
