@@ -42,7 +42,7 @@ def predict_datapoint():
         return render_template('home.html', results=results[0])  # Adjust as needed for displaying results
     
 if __name__ == "__main__":       
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0",port=8080)
 # Change port to 5000 or another free port
 
 # from flask import Flask,request,render_template
