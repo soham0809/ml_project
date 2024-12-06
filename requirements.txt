@@ -6,9 +6,4 @@ scikit-learn==1.2.1
 catboost
 xgboost
 dill
-<<<<<<< HEAD
 flask
-=======
-Flask
-
->>>>>>> 96026f7 (Okay this is my last chance)
